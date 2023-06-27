@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My GitHub Pages Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My GitHub Pages Website</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="home">
+      <h2>Home</h2>
+      <p>Welcome to my website! Feel free to explore and learn more about my services.</p>
+    </section>
+
+    <section id="about">
+      <h2>About</h2>
+      <p>I am a professional freelancer offering a range of services to help clients achieve their goals. With expertise in [your expertise], I provide [benefits of your services].</p>
+    </section>
+
+    <section id="services">
+      <h2>Services</h2>
+      <ul>
+        <li>Service 1</li>
+        <li>Service 2</li>
+        <li>Service 3</li>
+        <!-- Add more services as needed -->
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>If you have any questions or would like to discuss a project, feel free to reach out to me:</p>
+      <ul>
+        <li>Email: yourname@example.com</li>
+        <li>Phone: +1 123-456-7890</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 My GitHub Pages Website. All rights reserved.</p>
+  </footer>
+</body>
+</html>

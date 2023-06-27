@@ -1,5 +1,4 @@
 # Ajayrx.github.io
-Freelancing
 <!DOCTYPE html>
 <html>
 <head>

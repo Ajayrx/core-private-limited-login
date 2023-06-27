@@ -1,10 +1,5 @@
 # Ajayrx.github.io
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Your Freelancing Services</title>
-  <link rel="stylesheet" href="style.css">
-</head>
+
 <body>
   <header>
     <h1>Welcome to Your Freelancing Services</h1>

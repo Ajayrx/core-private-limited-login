@@ -2,7 +2,7 @@
 
 <body>
   <header>
-    <h1>Welcome to Your Freelancing Services</h1>
+    <h1>Welcome to Your my site.io</h1>
     <p>Data Entry and Lead Generation</p>
   </header>
 

@@ -1,37 +1,38 @@
-# Ajayrx.github.io
+# Core Private Limited - Login System  
 
-<body>
-  <header>
-    <h1>Welcome to Your my site.io</h1>
-    <p>Data Entry and Lead Generation</p>
-  </header>
+<div align="center">
+  <h2>🔐 Secure Login Portal</h2>
+  <p>A private and professional login system for authorized personnel of Core Private Limited.</p>
+</div>
 
-  <section id="about">
-    <h2>About Me</h2>
-    <p>I am a professional freelancer specializing in data entry and lead generation. With expertise in collecting, organizing, and managing data, I can assist you in various tasks related to data entry and lead generation.</p>
-    <p>Whether you need help with data cleaning, data mining, or lead research, I can provide accurate and efficient solutions tailored to your specific needs.</p>
-  </section>
+---
 
-  <section id="services">
-    <h2>Services Offered</h2>
-    <ul>
-      <li>Data entry and management</li>
-      <li>Data cleaning and validation</li>
-      <li>Data mining and research</li>
-      <li>Lead generation and qualification</li>
-      <li>Database creation and maintenance</li>
-    </ul>
-  </section>
+## 🚀 Features  
 
-  <section id="contact">
-    <h2>Contact Me</h2>
-    <p>If you have any inquiries or would like to discuss a project, please feel free to reach out to me.</p>
-    <p>Email: yourname@example.com</p>
-    <p>Phone: +1 123-456-7890</p>
-  </section>
+<ul>
+  <li><strong>Secure Login:</strong> A modern and secure login interface for user authentication.</li>
+  <li><strong>Responsive Design:</strong> Fully optimized for desktops and mobile devices.</li>
+  <li><strong>Customizable:</strong> Easily modify styles and functionality to fit your needs.</li>
+</ul>
 
-  <footer>
-    <p>&copy; 2023 Your Freelancing Services. All rights reserved.</p>
-  </footer>
-</body>
-</html>
+---
+
+## 🛠️ Technologies Used  
+
+<table>
+  <tr>
+    <td>💻 HTML5</td>
+    <td>🖌️ CSS3</td>
+    <td>🔧 JavaScript (optional)</td>
+  </tr>
+</table>
+
+---
+
+## 📁 Project Structure  
+
+```plaintext
+project/
+├── index.html       # Main login page
+├── styles.css       # CSS file for styling
+└── README.md        # Project documentation

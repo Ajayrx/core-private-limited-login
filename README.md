@@ -26,13 +26,3 @@
     <td>🔧 JavaScript (optional)</td>
   </tr>
 </table>
-
----
-
-## 📁 Project Structure  
-
-```plaintext
-project/
-├── index.html       # Main login page
-├── styles.css       # CSS file for styling
-└── README.md        # Project documentation

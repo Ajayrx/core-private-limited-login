@@ -1,20 +1,82 @@
-/* style.css */
-
+/* General Reset */
 body {
-  font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #2C3E50, #4CA1AF);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #fff;
 }
 
-header {
-  background-color: #f2f3f2;
+/* Login Container */
+.login-container {
+  width: 100%;
+  max-width: 400px;
+  background: #fff;
+  border-radius: 12px;
   padding: 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
   text-align: center;
+  color: #333;
 }
 
-h1 {
-  font-size: 30px;
+/* Login Card */
+.login-card h1 {
   margin-bottom: 10px;
+  font-size: 1.8rem;
+  color: #2C3E50;
 }
 
-/* Add more CSS styles as needed */
+.login-card p {
+  font-size: 1rem;
+  margin-bottom: 20px;
+  color: #777;
+}
+
+/* Form Styles */
+.form-group {
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  color: #333;
+}
+
+input:focus {
+  outline: none;
+  border-color: #4CA1AF;
+}
+
+/* Button Styles */
+.btn {
+  width: 100%;
+  padding: 10px;
+  background: #4CA1AF;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background: #2C3E50;
+}
